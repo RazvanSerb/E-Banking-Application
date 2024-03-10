@@ -1,0 +1,2 @@
+User with hello@email.com doesn't exist
+Insufficient amount in account for buying premium option
